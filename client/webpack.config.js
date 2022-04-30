@@ -27,7 +27,7 @@ module.exports = () => {
       }),
       // create manifest.json
       new WebpackPwaManifest({
-        name: "Just Another Text Editor",
+        name: "jate",
         description: "A text editor.",
         background_color: "black",
         theme_color: "hotpink",
