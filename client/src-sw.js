@@ -31,7 +31,7 @@ registerRoute(
   ({ request }) => ["style", "script", "worker"].includes(request.destination),
   new StaleWhileRevalidate({
     // Name of the cache storage.
-    // may need to change this to "text-cache"
+    // TODO: may need to change this to "text-cache"
     cacheName: "asset-cache",
     plugins: [
       // This plugin will cache responses with these headers to a maximum-age of 30 days
