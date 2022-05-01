@@ -65,4 +65,4 @@ If you have any questions:
 ## Links
 
 - Here is the repo: [NotANewt/JATE: Just Another Text Editor](https://github.com/NotANewt/Just_Another_Text_Editor)
-- Here is the pages on Heroku: [Heroku/pages](https://github.com/NotANewt/Just_Another_Text_Editor)
+- Here is the pages on Heroku: [Heroku/pages](https://jate-meegan.herokuapp.com/)
